@@ -1,0 +1,93 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+#- name: Layne Berry
+#  photo: layne.jpg
+#  info:
+#  email: 
+#  number_educ: 1
+#  education1: B.A. (with Distinction) in Computer Science and Linguistics, University of Virginia (2021)
+
+- name: <a href="https://ajd12342.github.io/">Anuj Diwan</a>
+  photo: anuj.jpg
+  info: co-advised with Eunsol Choi
+  email:
+  number_educ: 1
+  education1: B.Tech (with Honors) in Computer Science, Indian Institute of Technology Bombay (2021)
+
+#- name: <a href="https://jasonppy.github.io/">Puyuan Peng</a>
+#  photo: jason.jpg
+#  info:
+#  email: pyp@utexas.edu
+#  number_educ: 2
+#  education1: M.S. in Statistics, University of Chicago (2021)
+#  education2: B.S. in Mathematics and Applied Mathematics, Beijing Normal University (2019)
+
+#- name: <a href="https://sites.google.com/view/kimsungbin/">Sungbin Kim</a>
+#  photo: sungbin.png
+#  info: Visiting PhD student from POSTECH, advised by <a href="https://ami.postech.ac.kr/members/tae-hyun-oh">Tae-Hyun Oh</a>
+#  email:
+#  number_educ: 2
+#  education1: B.S. Handong Global University (2021)
+#  education2: M.S. POSTECH (2023)
+
+#- name: <a href="https://sites.google.com/view/hyeonggonryu">Hyeonggon Ryu</a>
+#  photo: gohny.png
+#  info: Visiting PhD student from KAIST, advised by <a href="https://mmai.io/joon/">Joon Son Chung</a>
+#  email:
+#  number_educ: 2
+#  education1: B.S. Hanyang University (2021)
+#  education2: M.S. KAIST (2023)
+
+- name: <a href="https://www.cs.utexas.edu/~yjshih/">Ian Shih</a>
+  photo: ian.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: B.S. National Taiwan University
+
+- name: Wei-Cheng Tseng
+  photo: saltshaker.jpg
+  info:
+  email:
+  number_educ: 2
+  education1: B.S. National Taiwan University
+  education2: M.S. National Taiwan University
+
+- name: Jordan Voas
+  photo: saltshaker.jpg
+  info: Co-advised with Ray Mooney
+  email:
+  number_educ: 2
+  education1: B.S. University of Minnesota
+  education2: M.S. The University of Texas at Austin (2023)
+
+- name: <a href="https://zhishengzheng.com/">Zhisheng Zheng</a>
+  photo: zhisheng.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: B.S. Shanghai Jiao Tong University (2024)
+
+- name: <a href="https://kwangheechoi.com/">Kwanghee Choi</a>
+  photo: kwanghee.jpg
+  info:
+  email:
+  number_educ: 2
+  education1: M.S. Carnegie Mellon University (2025)
+  education2: B.S. Sogang University (2017)
+
+- name: <a href="https://roger-tseng.github.io/">Yuan (Roger) Tseng</a>
+  photo: roger.jpg
+  info:
+  email:
+  number_educ: 2
+  education1: M.S. National Taiwan University (2025)
+  education2: B.S. National Taiwan University (2022)
