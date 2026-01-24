@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # GitHub Pages settings
 baseurl: ""  # Leave empty if using custom domain, or "/repository-name" if using username.github.io/repository-name
-url: "https://ut-saltlab.github.io"  # Update with your actual GitHub Pages URL
+url: "https://saltlab.cs.utexas.edu"
 
 include:
   - _pages
